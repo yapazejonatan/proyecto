@@ -1,0 +1,45 @@
+.hover {
+color: gold;
+}
+.fondpant {
+  background-position: center;
+  background-size: cover;
+}
+
+.iconoboton {
+  font-size: 15px;
+  box-sizing: border-box;
+}
+.content {
+border: solid;
+text-align: center;
+background-color: rgb(148, 245, 212);
+
+}
+.TITULO {
+  font-size: 4rem;
+  color: rgb(146, 75, 75);
+  font-family: cursive;
+  margin: 0;
+
+}
+
+.colorfondo {
+  background: rgba(149, 211, 226, 0.678);
+}
+
+.card-text {
+  text-align: center;
+}
+
+.card-img-top {
+  justify-content: center;
+}
+
+.TITULOFINANC {
+  color: rgb(99, 44, 44);
+  text-decoration: none;
+  text-align: center;
+}
+
+/*# sourceMappingURL=estilo.css.map */
